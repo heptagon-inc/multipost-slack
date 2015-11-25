@@ -1,0 +1,26 @@
+{
+  "name": "multipost-slack",
+  "version": "1.0.0",
+  "description": "Multi-post is slash command of slack with AWS Lambda & Amazon API Gateway.It diffuses URL to several teams and channels. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Takuya Tachibana",
+  "license": "GPL2",
+  "dependencies": {
+    "cheerio-httpcli": "^0.3.8",
+    "config": "^1.17.1",
+    "js-yaml": "^3.4.5",
+    "node-slackr": "^0.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heptagon-inc/multipost-slack"
+  },
+  "bugs": {
+    "url": "https://github.com/heptagon-inc/multipost-slack/issues"
+  },
+  "homepage": "https://github.com/heptagon-inc/multipost-slack"
+}

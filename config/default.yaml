@@ -1,0 +1,10 @@
+config:
+-   team: "hoge"
+    channel: "#general"
+    URL: "https://hooks.slack.com/services/xxxxxxxxxxxxxxx"
+-   team: "fuga"
+    channel: "#chat"
+    URL: "https://hooks.slack.com/services/yyyyyyyyyyyyyyy"
+-   team: "piyo"
+    channel: "#test"
+    URL: "https://hooks.slack.com/services/zzzzzzzzzzzzzzz"
